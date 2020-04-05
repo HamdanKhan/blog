@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Apr 2020 11:47:01 +0500</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 12:40:30 +0500</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Letter to Muse</title>
+      <link>/posts/dear-muse/</link>
+      <pubDate>Sun, 05 Apr 2020 12:40:30 +0500</pubDate>
+      
+      <guid>/posts/dear-muse/</guid>
+      <description>Dear Muse,
+Stuck in an endless loop of writing this letter and deleting it. Every time with a slightly different meaning, the goal? I am not clear on that. I simply can not get a grip on this untangled mess. Few of those letters had our differences listed, few emotionally charged, few aggressive, some more apologetic than others. That is not all, they even had profound shit like the utilitarian conclusion and stoic viewpoints.</description>
+      
+    </item>
     
     <item>
       <title>Chaos</title>
