@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>story on Notes</title>
+    <link>/tags/story/</link>
+    <description>Recent content in story on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Apr 2020 22:05:47 +0500</lastBuildDate>
+    
+        <atom:link href="/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puppeteer</title>
+      <link>/posts/puppeteer/</link>
+      <pubDate>Thu, 09 Apr 2020 22:05:47 +0500</pubDate>
+      
+      <guid>/posts/puppeteer/</guid>
+      <description>Puppeteer Puppets! He mutters, not free, in a monolog, while unpacking the stage. Our biase, our presupposition, our belief, he continued. Its a story, add a pinch of salt at will. You can not see my harness, am I at my own will? with a concerned look on his face, while he sets two of his characters on the stage. These were not elaborate, those puppets, yet distinguishable, a male and a female.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
