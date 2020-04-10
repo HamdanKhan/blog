@@ -13,6 +13,6 @@ Your uncanny faith in what we have, what developed along the way, to uncertainti
 
 If only I could swim in your eyes, through those dark trenches that separate us. I will fight against the wind, shade you in all means. Just the thought of you brings all the colors back to life. Sharing a cup of coffee with you, now that is a story I would love to write. 
 
-thanks,
+thanks,  
 Hamdan
 
