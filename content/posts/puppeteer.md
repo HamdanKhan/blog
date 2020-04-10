@@ -7,8 +7,6 @@ tags: ["story", "fiction"]
 categories: ["muse"]
 ---
 
-# Puppeteer 
-
 Puppets! He mutters, not free, in a monolog, while unpacking the stage. Our biase, our presupposition, our belief, he continued. Its a story, add a pinch of salt at will. You can not see my harness, am I at my own will? with a concerned look on his face, while he sets two of his characters on the stage. These were not elaborate, those puppets, yet distinguishable, a male and a female.
 
 He gently placed the female one on miniature wooden chair in a corner, arranged her pale white dress. There were no harness on the female character almost as if he never wanted her to speak. The male, on the other hand, came to life the moment puppeteer took control of his dowel.

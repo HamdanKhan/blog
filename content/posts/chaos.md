@@ -7,7 +7,6 @@ tags: ["explore", "poem"]
 categories: ["muse"] 
 ---
 
-# Chaos
 
 In the midst of chaos I reside, a distant observer to my own life.  
 I am on a thought created dungeon, this calm endless sea.  
