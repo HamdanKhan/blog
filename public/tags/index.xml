@@ -6,10 +6,30 @@
     <description>Recent content in Tags on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Apr 2020 22:05:47 +0500</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 20:37:33 +0500</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>letter</title>
+      <link>/tags/letter/</link>
+      <pubDate>Fri, 10 Apr 2020 20:37:33 +0500</pubDate>
+      
+      <guid>/tags/letter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>unsent</title>
+      <link>/tags/unsent/</link>
+      <pubDate>Fri, 10 Apr 2020 20:37:33 +0500</pubDate>
+      
+      <guid>/tags/unsent/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>fiction</title>
@@ -37,16 +57,6 @@
       <pubDate>Sun, 05 Apr 2020 12:40:30 +0500</pubDate>
       
       <guid>/tags/abstract/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>letter</title>
-      <link>/tags/letter/</link>
-      <pubDate>Sun, 05 Apr 2020 12:40:30 +0500</pubDate>
-      
-      <guid>/tags/letter/</guid>
       <description></description>
       
     </item>
