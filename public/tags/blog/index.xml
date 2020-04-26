@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on Notes</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in blog on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Apr 2020 14:18:21 +0500</lastBuildDate>
+    
+        <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Staying at Home</title>
+      <link>/posts/staying-at-home/</link>
+      <pubDate>Sun, 26 Apr 2020 14:18:21 +0500</pubDate>
+      
+      <guid>/posts/staying-at-home/</guid>
+      <description>Staying at home
+We&amp;rsquo;ve been under lockdown from 20th March here in Karachi, went to the office on 20th that is, it was Friday, also the last day I went to Masjid. Was in office due to a pending &amp;ldquo;high priority issue&amp;rdquo; which was on someone else&amp;rsquo;s plate, but he had to run back home to interior Sindh amid lockdown risk. From then on till now it is all work from home and our team has adopted it well.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
