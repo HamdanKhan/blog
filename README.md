@@ -1,3 +1,3 @@
 # blog
 
-My Hugo blog visit http://hamdan.blog
+My Hugo blog visit https://hamdan.blog
