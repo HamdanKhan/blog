@@ -1,21 +1,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prayer on Notes</title>
-    <link>http://localhost:1313/tags/prayer/</link>
+    <link>https://hamdan.blog/tags/prayer/</link>
     <description>Recent content in Prayer on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en-US</language>
     <lastBuildDate>Mon, 01 Jun 2026 22:35:23 +0500</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/tags/prayer/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hamdan.blog/tags/prayer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Update till Oct 2026</title>
+      <link>https://hamdan.blog/posts/oct2026/</link>
+      <pubDate>Sun, 11 Oct 2026 16:07:12 +0500</pubDate>
+      
+      <guid>https://hamdan.blog/posts/oct2026/</guid>
+      <description>&lt;p&gt;Newest first.&lt;/p&gt;
+&lt;p&gt;The blog is now hosted on Cloudflare Pages, and the GitHub repo has been changed to host only the public pages.&lt;/p&gt;
+&lt;p&gt;I have come to terms with using AI just for grammar and spelling. I&amp;rsquo;m okay with that, as opposed to having it write something about X for me.&lt;/p&gt;
+&lt;p&gt;I have been tasked with exploring agentic AI for credit card flows. I talked to my team about it, and they are of the opinion that we are already using it as much as possible, but that many things are out of scope for AI. I&amp;rsquo;m following courses on Coursera, and I hope they help, even a little.&lt;/p&gt;
+&lt;p&gt;The coils above my car&amp;rsquo;s engine gave up on me twice. I had to replace all four of them, along with the spark plugs.&lt;/p&gt;
+&lt;p&gt;I hit a pillar twice, once at home and once at the office. The bumper repairs are huge, and I also have to get the windshield repaired.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ghafileen Paradise</title>
-      <link>http://localhost:1313/posts/ghafileen-paradise/</link>
+      <link>https://hamdan.blog/posts/ghafileen-paradise/</link>
       <pubDate>Sat, 20 Jun 2026 14:40:03 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/ghafileen-paradise/</guid>
+      <guid>https://hamdan.blog/posts/ghafileen-paradise/</guid>
       <description>&lt;p&gt;In 2005 when I went to Rywind, the Markaz (headquarters) was still on the old construction, call it nostalgic but I liked that old version better than the new one. Last I went there was in 2015, may be the layout might have changed now.&lt;/p&gt;
 &lt;p&gt;You ask, what that has to do with the blog title, I was with a fellow who knew few of the colloquial of that place. So, at the back of the masjid, there was a basement, with few people sleeping there, at 11am I think, and my fellow called the place &amp;ldquo;Ghafileen Paradise&amp;rdquo;. Because you can sleep there without anyone bugging you to join any of the sermons or deeds.&lt;/p&gt;
 &lt;p&gt;Of course that was for chuckles, the literal meaning of Ghalfil will be neglectful, and Ghafileen will be plural of Ghafil. Fast forward to 2026 and I still use constructions like these to laugh at current divisions within our religion.&lt;/p&gt;
@@ -29,10 +44,10 @@
     
     <item>
       <title>Tempting but I will refrain</title>
-      <link>http://localhost:1313/posts/tempting-but-refrain/</link>
+      <link>https://hamdan.blog/posts/tempting-but-refrain/</link>
       <pubDate>Sun, 14 Jun 2026 17:25:18 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/tempting-but-refrain/</guid>
+      <guid>https://hamdan.blog/posts/tempting-but-refrain/</guid>
       <description>&lt;p&gt;To start with, it&amp;rsquo;s very tempting to put my half baked thoughts through Claude (the free model) and it gives a fully formed post. But as some people suggest, I will restrain, so this is only with Google Docs autocorrect (2nd pass with harper-ls).&lt;/p&gt;
 &lt;p&gt;First, I do not go to extremes. Case in point: though I am a practicing Muslim, I do not force my sect&amp;rsquo;s view on others. The most important decision was my marriage, and I never ask which sect my wife subscribes to. It turned out to be a complex mix, with my father-in-law being a practicing Barelvi. A few posts ago I wrote that I also went to Hajj with them. Of course when I say I do not force my worldview on them, it does not mean I am open to concepts that contradict my beliefs. My silence is not acceptance of your acts; it&amp;rsquo;s just your way, and I am on mine.&lt;/p&gt;
 &lt;p&gt;Second, I often write that hindsight is a dangerous thing, it is not that I never think of scenarios where things were different (double negative I know), but I refrain and say it is God&amp;rsquo;s will. Why am I noting things here, remember the audience of one. It is for me to not look back or lament, but to stay firm on concepts which sustain peace in my life.&lt;/p&gt;
@@ -47,10 +62,10 @@
     
     <item>
       <title>Who Am I?</title>
-      <link>http://localhost:1313/posts/who-am-i/</link>
+      <link>https://hamdan.blog/posts/who-am-i/</link>
       <pubDate>Mon, 08 Jun 2026 23:42:46 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/who-am-i/</guid>
+      <guid>https://hamdan.blog/posts/who-am-i/</guid>
       <description>&lt;p&gt;I named this blog &lt;em&gt;&amp;ldquo;Bula key jana may kon&amp;rdquo;&lt;/em&gt; — and then, almost immediately, made the mistake of searching for Rabbi Shergill&amp;rsquo;s version. That&amp;rsquo;s enough to lodge a song in your head for the better part of a week. Not that I give much time to music. Or at least, that&amp;rsquo;s what I tell myself.&lt;/p&gt;
 &lt;p&gt;I will admit: I am guilty of listening to &lt;em&gt;Jhol&lt;/em&gt; — the acoustic version — on repeat. It&amp;rsquo;s off now. Even the echoes have settled. So why am I writing about this?&lt;/p&gt;
 &lt;p&gt;Because it brings my internal &lt;em&gt;maulana&lt;/em&gt; crashing down to earth. According to &lt;em&gt;fiqh&lt;/em&gt;, music is a sin. But rather than hunting for justifications, I&amp;rsquo;d rather accept it and ask for forgiveness. And here&amp;rsquo;s the logic I&amp;rsquo;ve made my peace with: suppose it  isn&amp;rsquo;t a sin — then my asking for forgiveness cost me nothing. Allah, being all-knowing, knows I might do it again, and His forgiveness is greater than His &lt;em&gt;reckoning&lt;/em&gt; . But if music &lt;em&gt;is&lt;/em&gt; haram, at least I asked. I&amp;rsquo;m covered either way.&lt;/p&gt;
@@ -73,10 +88,10 @@
     
     <item>
       <title>Audience of One</title>
-      <link>http://localhost:1313/posts/audience-of-one/</link>
+      <link>https://hamdan.blog/posts/audience-of-one/</link>
       <pubDate>Sun, 07 Jun 2026 20:13:18 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/audience-of-one/</guid>
+      <guid>https://hamdan.blog/posts/audience-of-one/</guid>
       <description>&lt;p&gt;A long time ago, I used to read an internet magazine called &lt;em&gt;Spider&lt;/em&gt;. That’s where I first encountered the idea of writing blog entries. Back then, as now, the advice was the same: leave comments on other blogs, build a community, cross-link, network. All sensible counsel.&lt;/p&gt;
 &lt;p&gt;But try as I might, I can never find it in me to do anything beyond the writing itself.&lt;/p&gt;
 &lt;p&gt;After sitting with that for a while, I’ve made peace with it. I occasionally scroll back through old entries and think to myself — &lt;em&gt;that wasn’t half bad&lt;/em&gt;. Which brings me to the title: for all practical purposes, this blog has an audience of one. His name is Hamdan.&lt;/p&gt;
@@ -89,10 +104,10 @@
     
     <item>
       <title>Gumnaam Dil</title>
-      <link>http://localhost:1313/posts/gumnaam-dil/</link>
+      <link>https://hamdan.blog/posts/gumnaam-dil/</link>
       <pubDate>Wed, 03 Jun 2026 22:37:56 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/gumnaam-dil/</guid>
+      <guid>https://hamdan.blog/posts/gumnaam-dil/</guid>
       <description>&lt;p&gt;You wander with me song to song, spark to spark, no horizon in sight. &lt;br&gt;
 You crave every unfinished sky, every bright and fleeting thing. &lt;br&gt;
 Yet some mornings you can barely drag me across the room. &lt;br&gt;
@@ -114,10 +129,10 @@ So I can learn to carry you better, or at least stop calling you by the wrong on
     
     <item>
       <title>The Dua</title>
-      <link>http://localhost:1313/posts/the-dua/</link>
+      <link>https://hamdan.blog/posts/the-dua/</link>
       <pubDate>Mon, 01 Jun 2026 22:35:23 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/the-dua/</guid>
+      <guid>https://hamdan.blog/posts/the-dua/</guid>
       <description>&lt;p&gt;One day, I sat there thinking, He has the entire universe in His hands, every star, every ocean, every soul ever born — what will our little patience mean to Him? But then I thought maybe that&amp;rsquo;s exactly why it matters, because in all that vastness, He still sees us standing here, holding something fragile and real, asking Him not to let it slip away.&lt;/p&gt;
 &lt;p&gt;Of course His plan is grand and vast — perhaps what He wants is for whatever grows between us to outlast the infatuation of this day. Not like a toy a child begs for, cherishes for a moment, then lets it collect dust the day a new one comes along — but like a dua a mother makes for her child, one he doesn&amp;rsquo;t fully understand yet, but grows into, and one day looks back on with gratitude and tears.&lt;/p&gt;
 &lt;p&gt;Someone once told me that Ibrahim (AS) spent his best days in the fire — such was his intimacy with the Divine. But I fear that we, being human, never quite return from those blessed states.&lt;/p&gt;
@@ -128,10 +143,10 @@ So I can learn to carry you better, or at least stop calling you by the wrong on
     
     <item>
       <title>Hajj 2011</title>
-      <link>http://localhost:1313/posts/hajj-2011/</link>
+      <link>https://hamdan.blog/posts/hajj-2011/</link>
       <pubDate>Tue, 26 May 2026 17:07:39 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/hajj-2011/</guid>
+      <guid>https://hamdan.blog/posts/hajj-2011/</guid>
       <description>&lt;p&gt;I never quite had it in me to write about my Hajj experience, but lately, I’ve felt the need to place it in context—particularly around my religious life and the anxieties of that period. This reflection was prompted by an argument I heard recently: that the current &lt;em&gt;ulema&lt;/em&gt; have created a myth that Hajj is for everyone, when it is, in reality, only for the elite.&lt;/p&gt;
 &lt;p&gt;My answer to that is simple. My father-in-law was a car electrician. I was a software engineer. Both of us had limited means, but we had enough to cover the trip, and neither of us had many dependents at home. Hajj, for us, was not a luxury; it was a spiritual experience rooted in sacred texts, an obligation that is mandatory when one can afford it, regardless of social standing.&lt;/p&gt;
 &lt;p&gt;Looking back at that journey in 2011, a few distinct realities stand out.&lt;/p&gt;
@@ -148,10 +163,10 @@ So I can learn to carry you better, or at least stop calling you by the wrong on
     
     <item>
       <title>How Old Are You?</title>
-      <link>http://localhost:1313/posts/how-old-are-you/</link>
+      <link>https://hamdan.blog/posts/how-old-are-you/</link>
       <pubDate>Tue, 26 May 2026 17:02:00 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/how-old-are-you/</guid>
+      <guid>https://hamdan.blog/posts/how-old-are-you/</guid>
       <description>&lt;p&gt;A long time ago, on a writing forum, they started a story submission contest. I submitted a story about a young graduate whose parents decided to leave him on his own while they traveled the world. I&amp;rsquo;m not much of a writer, and the story was very raw, but someone on the forum said it read like it was written by a child. It was an honest review, but for an adult who was just trying to find their footing, it landed hard. Somehow it never occurred to them that the person writing it might have the heart of a child — and might not have been ready to hear that.&lt;/p&gt;
 &lt;p&gt;On the same forum where I started posting personal things, I was told that kind of content belonged on a blog. So I started one — but eventually deleted it when things became too much to handle. I&amp;rsquo;m older now and have developed a thick skin, though it does sting a little that no one seems interested in what I write unless I personally ask them to read and review it.&lt;/p&gt;
 &lt;p&gt;Keeping these experiences in mind, I tried writing more complex things, but they ended up coming across as cryptic. As someone on the forum once pointed out, it shows through your writing when you haven&amp;rsquo;t read widely — and they weren&amp;rsquo;t wrong. But I think I still have the heart of a child, one who simply wants to see his writing, no matter how primitive, find its little space on the internet.&lt;/p&gt;
@@ -165,10 +180,10 @@ So I can learn to carry you better, or at least stop calling you by the wrong on
     
     <item>
       <title>WAR</title>
-      <link>http://localhost:1313/posts/war/</link>
+      <link>https://hamdan.blog/posts/war/</link>
       <pubDate>Wed, 01 Apr 2026 21:44:36 +0500</pubDate>
       
-      <guid>http://localhost:1313/posts/war/</guid>
+      <guid>https://hamdan.blog/posts/war/</guid>
       <description>&lt;p&gt;People die. A select few make billions. And the world calls it geopolitics.&lt;/p&gt;
 &lt;p&gt;I can&amp;rsquo;t write about that. Not because I don&amp;rsquo;t have opinions — and not because I can pretend to be neutral, I live in Pakistan, I am not outside this — but because the moment you name a country or a conflict you become a camp. And I&amp;rsquo;ve written before about the ease of not belonging to a camp.&lt;/p&gt;
 &lt;p&gt;What I can write about is something smaller and somehow more dangerous.&lt;/p&gt;
@@ -182,35 +197,6 @@ So I can learn to carry you better, or at least stop calling you by the wrong on
 &lt;p&gt;Take that same phrase and hand it to someone carrying years of a different inheritance and the output is unrecognizable. Not wrong exactly. Just entirely their own.&lt;/p&gt;
 &lt;p&gt;That is what this is about. Not the wars on maps. But the war inside language. The nuance of meaning that divides everyone — quietly, completely, and sometimes beyond repair.&lt;/p&gt;
 &lt;p&gt;Note: AI helped me find the right words and structure.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Underachievers Manifesto</title>
-      <link>http://localhost:1313/posts/underachievers/</link>
-      <pubDate>Fri, 16 Jan 2026 22:32:40 +0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/underachievers/</guid>
-      <description>&lt;p&gt;Normally, I don&amp;rsquo;t write much about books. Mostly because, honestly, I don&amp;rsquo;t read much. But The Underachiever&amp;rsquo;s Manifesto by Ray Bennett is a different story.&lt;/p&gt;
-&lt;p&gt;What makes it interesting is the source: the author is a medical specialist in Seattle and a recovering overachiever. It&amp;rsquo;s refreshing to see the advantages of &amp;ldquo;doing enough&amp;rdquo; from someone who has actually been on the high-success side of the fence and decided it wasn&amp;rsquo;t worth the cost.&lt;/p&gt;
-&lt;p&gt;I know what you&amp;rsquo;re thinking: &amp;ldquo;Hamdan, are you such a loser that you need a book to tell you how to live an ordinary life?&amp;rdquo; I hear you. But don&amp;rsquo;t form your opinion just yet. As Bennett puts it: &amp;ldquo;Underachievement is, surprisingly, not as easy as it should be.&amp;rdquo; I&amp;rsquo;ve actually read over my own draft of this post multiple times before publishing—partly to make sure it&amp;rsquo;s good, but mostly to internalize the message I&amp;rsquo;m trying to preach to myself.&lt;/p&gt;
-&lt;h2 id=&#34;the-problem-with-excellence&#34;&gt;The Problem with Excellence&lt;/h2&gt;
-&lt;p&gt;I won&amp;rsquo;t judge you if you&amp;rsquo;re a natural winner. There is a strange joy in being at the top of a list. But if your desire to be at the top is killing you, please stop. There is another way out.&lt;/p&gt;
-&lt;p&gt;If you are happy and acing life, keep going. But if you&amp;rsquo;re hitting every target and your life is miserable, then maybe &amp;ldquo;your commitment to excellence is the source of your trouble.&amp;rdquo; Consider these insights from the book:&lt;/p&gt;
-&lt;p&gt;The Perspective: &amp;ldquo;Your successes and failures really don&amp;rsquo;t matter to nearly everybody alive.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;the-law-of-diminishing-returns&#34;&gt;The Law of Diminishing Returns&lt;/h2&gt;
-&lt;p&gt;The book also touches on a concept that changed how I look at things: Diminishing Returns. Think about it—a $1,000 phone is not 10 times better than a $100 phone. It doesn&amp;rsquo;t give you 10 times the value. The author argues that &amp;ldquo;More is not always better, and good enough is good enough.&amp;rdquo; Perfection is a curse that prevents us from enjoying what we already have.&lt;/p&gt;
-&lt;p&gt;Even when looking at the &amp;ldquo;big&amp;rdquo; things in life, like investing or even religion, Bennett points out that overachievers tend to ruin the experience:&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;The underachiever reasons (correctly) that if highly skilled, even brilliant, fund managers can&amp;rsquo;t beat the market, then it&amp;rsquo;s pretty unlikely that he will, either.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;strategic-underachievement-vs-just-giving-up&#34;&gt;Strategic Underachievement vs. Just Giving Up&lt;/h2&gt;
-&lt;p&gt;Here&amp;rsquo;s where I want to add something important: there&amp;rsquo;s a meaningful difference between strategic underachievement and simply coasting through life. Bennett isn&amp;rsquo;t advocating that we become lazy or apathetic. Instead, he&amp;rsquo;s pointing us toward something more thoughtful—intentional prioritization.&lt;/p&gt;
-&lt;p&gt;The real skill isn&amp;rsquo;t blanket underachievement across all areas of life. It&amp;rsquo;s discernment—knowing which mountains are worth climbing and which ones you can walk around. Some things genuinely matter and deserve your best effort. Most things don&amp;rsquo;t.&lt;/p&gt;
-&lt;p&gt;The question Bennett&amp;rsquo;s book forces us to ask isn&amp;rsquo;t &amp;ldquo;How can I do less?&amp;rdquo; but rather &amp;ldquo;Where should I actually be trying?&amp;rdquo; Maybe the solution isn&amp;rsquo;t lowering the bar everywhere, but getting more selective about where we place our bars in the first place.&lt;/p&gt;
-&lt;p&gt;When Bennett says that mediocrity is the key, I think he means: most things in life function perfectly well at &amp;ldquo;good enough,&amp;rdquo; and by accepting this, we free up energy for the few things that truly warrant excellence. It&amp;rsquo;s not about abandoning standards—it&amp;rsquo;s about choosing them wisely.&lt;/p&gt;
-&lt;h2 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h2&gt;
-&lt;p&gt;One of the book&amp;rsquo;s ten principles sums it up best: &amp;ldquo;Great expectations lead to great misery.&amp;rdquo; If we lower the bar strategically—not everywhere, but in the places where perfectionism is draining us—we might actually find the space to breathe.&lt;/p&gt;
-&lt;p&gt;The challenge now is figuring out which parts of our lives deserve our best, and which parts just need to be done. That discernment might be the real achievement worth pursuing.&lt;/p&gt;
-&lt;p&gt;A Note on the Process: If you&amp;rsquo;ve noticed a sudden consistency in my posting, it&amp;rsquo;s because I have chosen to let AI assist me in formulating and polishing my wording.&lt;/p&gt;
 </description>
     </item>
     
